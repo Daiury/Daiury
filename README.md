@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/daiury-paloma-sousa-a0285a29b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](daiurypaloma.sousa@gmail.com)
+)](mailto:daiurypaloma.sousa@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dai.souzaa_)
 
 ![Daiury GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiury&show_icons=true&theme=dracula)
