@@ -7,6 +7,8 @@
 
 ![Daiury GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiury&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daiury&layout=pie)](https://github.com/Daiury/github-readme-stats)
+
 ## Technologies I use daily
 
 <div style=display: inline_block><br/>
